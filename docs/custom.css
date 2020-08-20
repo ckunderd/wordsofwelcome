@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+header {background: url(images/bg2.jpg) rgba(0,0,0,0.5) center center !important; background-blend-mode: overlay; background-size: cover !important;}
+
+.bilberry-hugo-theme .subtitle, .bilberry-hugo-theme .title, .bilberry-hugo-theme h1, .bilberry-hugo-theme h2, .bilberry-hugo-theme h3, .bilberry-hugo-theme h4, .bilberry-hugo-theme h5, .bilberry-hugo-theme h6 {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 400;
+}
+.bilberry-hugo-theme .main .article-wrapper .bubble:hover, .bilberry-hugo-theme nav, .bilberry-hugo-theme header .toggler {background-color:rgb(0,0,44) !important;}
+.subtitle {font-style: italic;}
