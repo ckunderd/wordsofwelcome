@@ -37,32 +37,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Discord</title>
-      <link>https://welcome.abide.community/tags/discord/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://welcome.abide.community/tags/discord/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Say Thanks!</title>
-      <link>https://welcome.abide.community/tags/say-thanks/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://welcome.abide.community/tags/say-thanks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support</title>
-      <link>https://welcome.abide.community/tags/support/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://welcome.abide.community/tags/support/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
